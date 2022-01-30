@@ -245,6 +245,7 @@ body{
     }
 }
 
+
 @media (max-width: 300px){
     .navbar-brand{
         font-size: 1rem;
@@ -253,12 +254,54 @@ body{
     .intro{
         font-size: 1rem;
     }
-    .cta-heading{
-        font-size: 1.5rem;
+}
+
+@media (max-width: 290px){
+    .navbar-brand{
+        font-size: 1rem;
     }
 
-    .cta-text{
+    .intro{
         font-size: 1rem;
     }
 }
 
+@media (max-width: 280px){
+    .navbar-brand{
+        font-size: 1rem;
+    }
+
+    .intro{
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 270px){
+    .navbar-brand{
+        font-size: 1rem;
+    }
+
+    .intro{
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 260px){
+    .navbar-brand{
+        font-size: 1rem;
+    }
+
+    .intro{
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 250px){
+    .navbar-brand{
+        font-size: 1rem;
+    }
+
+    .intro{
+        font-size: 1rem;
+    }
+}
